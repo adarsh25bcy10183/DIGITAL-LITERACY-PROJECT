@@ -1,7 +1,7 @@
 # DIGITAL-LITERACY-PROJECT
 Digital literacy project (Vityarthi)-Reg No: 25BCY10183 NAME:ADARSH KUMAR RAIWAL
 
-Student Details Name : Mrityunjay Kumar Registration No.: 25BCY10183 Branch: SCAI Programme: B.TECH 1st year Course Code: CSE0001 – Digital Literacy
+Student Details Name : Adarsh Kumar Raiwal Registration No.: 25BCY10183 Branch: SCAI Programme: B.TECH 1st year Course Code: CSE0001 – Digital Literacy
 
 Project Overview: This repository is my Digital Literacy Portfolio submitted as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks covering digital literacy awareness, professional online presence, coding platforms, email etiquette, and cybercrime awareness.
 
